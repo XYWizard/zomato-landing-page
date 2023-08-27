@@ -1,2 +1,2 @@
 ﻿# Zomato-landing-page
-<img src="ProfileCard.png">
+<img src=".png">
